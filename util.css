@@ -1,0 +1,88 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+    ;
+}
+
+.flex{
+    display: flex;
+}
+.overflow-x{
+    overflow-x: hidden;
+}
+
+.item-center{
+    align-items:center;
+}
+.justify-between{
+    justify-content:space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.fotn-bold{
+    font-weight: bold;
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.px-2{
+    padding-left: 13px ;
+    padding-right:13px;
+}
+.text-blue{
+    color: rgb(29,88,214);
+}
+.btn{
+ padding: 4px 12px;  
+ border: 2px solid white ; 
+ border-radius: 8px;
+ cursor: pointer;
+ color: wheat;
+ background-color: rgb(0, 89, 255); 
+}
+.btn2{
+    padding: 6px 28px;  
+    border: 1px solid rgb(19, 88, 218) ; 
+    border-radius: 2px;
+    cursor: pointer;
+    color: rgb(10, 7, 1);
+    background-color: rgb(19, 88, 218);
+}; 
+    
+   
+.logo{
+    font-size: 1.5rem;
+}
+.text-center{
+    text-align: center;
+}
+.box{
+margin: 12px   22PX;
+min-width: 20vw;
+border: 2px solid coral;
+border-radius: 20px;
+overflow: hidden;
+}
+
+.btn2:hover{
+    
+    font-weight: bold;
+    background-color:rgb(44, 111, 236);
+}
